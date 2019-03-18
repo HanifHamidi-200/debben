@@ -1,0 +1,15 @@
+C:\Users\hanif\source\repos\YULEYF\bin\Debug\YULEYF.exe.config
+C:\Users\hanif\source\repos\YULEYF\bin\Debug\YULEYF.exe
+C:\Users\hanif\source\repos\YULEYF\bin\Debug\YULEYF.pdb
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.Form1.resources
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.Properties.Resources.resources
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.exe
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.pdb
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.fSub1.resources
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.fSub2.resources
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.fSub3.resources
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.fSub4.resources
+C:\Users\hanif\source\repos\YULEYF\obj\Debug\YULEYF.fSub5.resources

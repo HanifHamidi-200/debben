@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\ATOBS\bin\Debug\ATOBS.exe.config
+C:\Users\hanif\source\repos\ATOBS\bin\Debug\ATOBS.exe
+C:\Users\hanif\source\repos\ATOBS\bin\Debug\ATOBS.pdb
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.Form1.resources
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.Properties.Resources.resources
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.exe
+C:\Users\hanif\source\repos\ATOBS\obj\Debug\ATOBS.pdb

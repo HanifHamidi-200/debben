@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\STAIRS\bin\Debug\STAIRS.exe.config
+C:\Users\hanif\source\repos\STAIRS\bin\Debug\STAIRS.exe
+C:\Users\hanif\source\repos\STAIRS\bin\Debug\STAIRS.pdb
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.Form1.resources
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.Properties.Resources.resources
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.exe
+C:\Users\hanif\source\repos\STAIRS\obj\Debug\STAIRS.pdb

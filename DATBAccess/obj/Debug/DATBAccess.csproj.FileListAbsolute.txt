@@ -1,0 +1,10 @@
+C:\Users\hanif\source\repos\DATBAccess\bin\Debug\DATBAccess.exe.config
+C:\Users\hanif\source\repos\DATBAccess\bin\Debug\DATBAccess.exe
+C:\Users\hanif\source\repos\DATBAccess\bin\Debug\DATBAccess.pdb
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.Form1.resources
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.Properties.Resources.resources
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.exe
+C:\Users\hanif\source\repos\DATBAccess\obj\Debug\DATBAccess.pdb

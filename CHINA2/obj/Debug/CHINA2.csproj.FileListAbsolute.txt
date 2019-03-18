@@ -1,0 +1,11 @@
+C:\Users\hanif\source\repos\CHINA2\bin\Debug\CHINA2.exe.config
+C:\Users\hanif\source\repos\CHINA2\bin\Debug\CHINA2.exe
+C:\Users\hanif\source\repos\CHINA2\bin\Debug\CHINA2.pdb
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.csprojAssemblyReference.cache
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.Form1.resources
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.Properties.Resources.resources
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.csproj.GenerateResource.cache
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.csproj.CoreCompileInputs.cache
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.exe
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.pdb
+C:\Users\hanif\source\repos\CHINA2\obj\Debug\CHINA2.fSub1.resources
