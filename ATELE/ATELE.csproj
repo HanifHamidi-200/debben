@@ -82,6 +82,7 @@
   <ItemGroup>
     <Content Include="icons1\F air.png" />
     <Content Include="icons1\F corridors.png" />
+    <Content Include="icons1\F crystal.png" />
     <Content Include="icons1\F exit.png" />
     <Content Include="icons1\F monsterappears.png" />
     <Content Include="icons1\F mound.png" />

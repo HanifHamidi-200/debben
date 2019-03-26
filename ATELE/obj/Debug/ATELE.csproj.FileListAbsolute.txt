@@ -8,3 +8,13 @@ C:\Users\hanif\source\repos\ATELE\obj\Debug\ATELE.csproj.GenerateResource.cache
 C:\Users\hanif\source\repos\ATELE\obj\Debug\ATELE.csproj.CoreCompileInputs.cache
 C:\Users\hanif\source\repos\ATELE\obj\Debug\ATELE.exe
 C:\Users\hanif\source\repos\ATELE\obj\Debug\ATELE.pdb
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.Form1.resources
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.Properties.Resources.resources
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.exe
+C:\Users\hanif\Desktop\debben\ATELE\obj\Debug\ATELE.pdb
+C:\Users\hanif\Desktop\debben\ATELE\bin\Debug\ATELE.exe.config
+C:\Users\hanif\Desktop\debben\ATELE\bin\Debug\ATELE.exe
+C:\Users\hanif\Desktop\debben\ATELE\bin\Debug\ATELE.pdb
